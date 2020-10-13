@@ -14,7 +14,7 @@ The detection is done with the help of a motion sensor (HC-SR501).
 
 <li> This project uses a Raspberry Pi Camera to stream video. make sure to configure the raspberry pi camera on your device.</li>
 
-<li> You can install openCV on your raspberry pi by using the following [tutorial](https://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/) .</li>
+<li> You can install openCV on your raspberry pi by using the following <a href="https://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/">tutorial</a></li>
 
 </ul>
 
