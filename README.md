@@ -10,13 +10,13 @@ The detection is done with the help of a motion sensor (HC-SR501).
 
 <h2> To-do list before: :page_facing_up: </h2>
 
-<li>
+<ul>
 
-1. This project uses a Raspberry Pi Camera to stream video. make sure to configure the raspberry pi camera on your device.
+<li> This project uses a Raspberry Pi Camera to stream video. make sure to configure the raspberry pi camera on your device.</li>
 
-2. You can install openCV on your raspberry pi by using the following [tutorial](https://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/) .
+<li> You can install openCV on your raspberry pi by using the following [tutorial](https://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/) .</li>
 
-</li>
+</ul>
 
 <h2>:fire: How It Works:</h2> 
 
